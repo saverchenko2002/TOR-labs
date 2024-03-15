@@ -33,7 +33,57 @@
     
 </p>
 
+## Voice Recognition Lab 2
+
+<p align="center">
+  <img src="https://github.com/saverchenko2002/TOR-labs/blob/master/lab2%20voice%20recognition/pics/generated_recorded_comparison.jpeg">
+
+  <br>
+  <b>Spectrograms before normalization</b>
+
+  <br>
+  <br>
+    <br>
+      <br>
+  <img src="https://github.com/saverchenko2002/TOR-labs/blob/master/lab2%20voice%20recognition/generated_recorded_comparison.jpeg">
+
+  <br>
+  <b>Spectrograms after normalization</b>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img src="https://github.com/saverchenko2002/TOR-labs/blob/master/lab2%20voice%20recognition/recorded_audio_spectrograms_upscaled.jpeg">
+
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <img src="https://github.com/saverchenko2002/TOR-labs/blob/master/lab2%20voice%20recognition/initial_audio_noised_spectrograms_upscaled.jpeg">
+
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <img src="https://github.com/saverchenko2002/TOR-labs/blob/master/lab2%20voice%20recognition/initial_audio_pitch_shifted_spectrograms_upscaled.jpeg">
+  
+  <br>
+  <br>
+  <br>
+  <br>
+
+</p>
 
 
+| <img src="https://github.com/saverchenko2002/TOR-labs/blob/master/lab2%20voice%20recognition/loss_plot_ru.jpg"> | <img src="https://github.com/saverchenko2002/TOR-labs/blob/master/lab2%20voice%20recognition/accuracy_plot_ru.jpg"> |
+|:--:|:--:|
+
+<p align="center">
+  <b>Evaluation<b>
+  </p>
 
 
