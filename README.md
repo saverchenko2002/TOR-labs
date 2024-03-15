@@ -55,13 +55,6 @@
   <br>
   <br>
   
-  <img src="https://github.com/saverchenko2002/TOR-labs/blob/master/lab2%20voice%20recognition/recorded_audio_spectrograms_upscaled.jpeg">
-
-  <br>
-  <br>
-  <br>
-  <br>
-
   <img src="https://github.com/saverchenko2002/TOR-labs/blob/master/lab2%20voice%20recognition/initial_audio_noised_spectrograms_upscaled.jpeg">
 
   <br>
